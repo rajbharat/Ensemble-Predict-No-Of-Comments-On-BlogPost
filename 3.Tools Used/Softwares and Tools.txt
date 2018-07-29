@@ -1,0 +1,34 @@
+RStudio - Version 1.1.383
+R version 3.3.3 (2017-03-06)
+
+RPackages:
+R DataProcessing:
+library(data.table)
+library(foreach)
+
+Basic Modelling:
+library(MatrixModels)
+library(e1071)
+library(FNN)
+library(glmnet)
+library(ranger)
+library(xgboost)
+
+Averaging:
+library(data.table)
+library(foreach)
+library(MatrixModels)
+library(xgboost)
+library(ranger)
+
+
+Stacking:
+library(data.table)
+library(foreach)
+library(MatrixModels)
+
+library(e1071)
+library(FNN)
+library(glmnet)
+library(ranger)
+library(xgboost)
